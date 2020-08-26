@@ -1458,3 +1458,11 @@ input[type="checkbox"]:checked ~ .psevdo-checkbox:after {
     .login-block .form-row {
       margin-bottom: 48px;
       max-width: 320px; }
+
+.user-item {
+  align-items: center;
+}
+.btn {
+    height: 40px;
+}
+    
